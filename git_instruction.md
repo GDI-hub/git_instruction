@@ -21,3 +21,11 @@
 git status
 
 ### Создание коммита
+
+ git commit -m "text"
+
+ git diff - сравнение
+
+ git log - логи
+
+ пше срулщге
