@@ -28,4 +28,4 @@ git status
 
  git log - логи
 
- пше срулщге
+ git checkout - метка HEAD
