@@ -35,3 +35,9 @@ git status
 Для создания ветки команда:
 
 git branch branch_name
+
+## Удаление ветки
+
+Для удаления ветки команда:
+
+git branch -d branch_name
