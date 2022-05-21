@@ -32,3 +32,5 @@ git status
 
 ## Создание веток
 
+Для создания ветки команда: 
+git branch branch_name
