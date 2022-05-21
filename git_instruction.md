@@ -29,3 +29,6 @@ git status
  git log - логи
 
  git checkout - метка HEAD
+
+## Создание веток
+
