@@ -18,28 +18,32 @@
 
 ### Просмотр состояния
 
-git status
+  git status
 
 ### Создание коммита
 
- git commit -m "text"
+  git commit -m "text"
 
- git diff - сравнение
+  git diff - сравнение
 
- git log - логи
+  git log - логи
 
- git checkout - метка HEAD
+  git checkout - метка HEAD
 
 ## Создание веток
 
 Для создания ветки команда:
 
-git branch branch_name
+  git branch branch_name
 
 ## Переход между ветками
+
+Для перехода между ветками команда:
+
+  git checkout branch_name
 
 ## Удаление ветки
 
 Для удаления ветки команда:
 
-git branch -d branch_name
+  git branch -d branch_name
