@@ -28,6 +28,10 @@ git status
 
  git log - логи
 
-## Заголовок в ветке master
+ git checkout - метка HEAD
 
-Текст в ветке master
+## Создание веток
+
+Для создания ветки команда:
+
+git branch branch_name
