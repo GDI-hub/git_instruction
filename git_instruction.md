@@ -55,3 +55,7 @@
   git branch -M main
 
   git push -u origin main
+  
+##  Получение данных из удаленного репозитория
+
+  git pull
