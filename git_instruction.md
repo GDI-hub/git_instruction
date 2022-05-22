@@ -47,3 +47,11 @@
 Для удаления ветки команда:
 
   git branch -d branch_name
+
+## Удаленный репозиторий
+  
+  git remote add origin https://github.com/GDI-hub/git_instruction.git
+
+  git branch -M main
+
+  git push -u origin main
